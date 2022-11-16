@@ -36,7 +36,7 @@ Se debe entregar:
 
 ### Toma de requerimientos
 
-[Descargar formato de especificación de requerimientos](./files/1.-Requirements - Abogabot.pdf)
+[Descargar formato de especificación de requerimientos](./files/1.Requirements.pdf)
 
 ### Diseño UI/UX
 
