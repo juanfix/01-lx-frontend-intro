@@ -38,19 +38,16 @@ Se debe entregar:
 
 #### [Ver formato de especificación de requerimientos](./files/1.Requirements.pdf)
 
-- ##### [Ver Ver diagrama BPMN](./files/Diagrams/BPMN-Abogabot.pdf)
-
-- ##### [Ver Ver diagrama de casos de uso](./files/Diagrams/CasosDeUso-Abogabot.png)
-
-- ##### [Ver Ver diagrama EER](./files/Diagrams/EER-Abogabot.png)
-
-- ##### [Ver Ver diagrama Gantt](./files/Diagrams/Gantt-Abogabot.pdf)
+- [Ver diagrama BPMN](./files/Diagrams/BPMN-Abogabot.pdf)
+- [Ver diagrama de casos de uso](./files/Diagrams/CasosDeUso-Abogabot.png)
+- [Ver diagrama EER](./files/Diagrams/EER-Abogabot.png)
+- [Ver diagrama Gantt](./files/Diagrams/Gantt-Abogabot.pdf)
 
 ### Diseño UI/UX
 
-1. Buyer persona.
-2. Público objetivo.
-3. Wireframes UX.
-4. Diseño UI
+<a href="https://www.figma.com/file/Mkx9auwfUkc71swFxI1GHh/Figma-Basics?node-id=0%3A286" target="_blank">Ver formato de diseño UI/UX en Figma</a>
 
-[Ver formato de diseño UI/UX en Figma](https://www.figma.com/file/Mkx9auwfUkc71swFxI1GHh/Figma-Basics?node-id=0%3A286)
+- Buyer persona.
+- Público objetivo.
+- Wireframes UX.
+- Diseño UI.
