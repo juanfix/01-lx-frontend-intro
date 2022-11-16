@@ -38,13 +38,13 @@ Se debe entregar:
 
 #### [Ver formato de especificación de requerimientos](./files/1.Requirements.pdf)
 
-##### [Ver Ver diagrama BPMN](./files/Diagrams/BPMN-Abogabot.pdf)
+- ##### [Ver Ver diagrama BPMN](./files/Diagrams/BPMN-Abogabot.pdf)
 
-##### [Ver Ver diagrama de casos de uso](./files/Diagrams/CasosDeUso-Abogabot.png
+- ##### [Ver Ver diagrama de casos de uso](./files/Diagrams/CasosDeUso-Abogabot.png)
 
-##### [Ver Ver diagrama EER](./files/Diagrams/EER-Abogabot.png)
+- ##### [Ver Ver diagrama EER](./files/Diagrams/EER-Abogabot.png)
 
-##### [Ver Ver diagrama Gantt](./files/Diagrams/Gantt-Abogabot.pdf)
+- ##### [Ver Ver diagrama Gantt](./files/Diagrams/Gantt-Abogabot.pdf)
 
 ### Diseño UI/UX
 
