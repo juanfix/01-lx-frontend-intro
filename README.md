@@ -36,7 +36,15 @@ Se debe entregar:
 
 ### Toma de requerimientos
 
-[Descargar formato de especificación de requerimientos](./files/1.Requirements.pdf)
+#### [Ver formato de especificación de requerimientos](./files/1.Requirements.pdf)
+
+##### [Ver Ver diagrama BPMN](./files/Diagrams/BPMN-Abogabot.pdf)
+
+##### [Ver Ver diagrama de casos de uso](./files/Diagrams/CasosDeUso-Abogabot.png
+
+##### [Ver Ver diagrama EER](./files/Diagrams/EER-Abogabot.png)
+
+##### [Ver Ver diagrama Gantt](./files/Diagrams/Gantt-Abogabot.pdf)
 
 ### Diseño UI/UX
 
