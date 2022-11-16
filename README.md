@@ -45,4 +45,4 @@ Se debe entregar:
 3. Wireframes UX.
 4. Diseño UI
 
-[Ver formato de diseño UI/UX en Figma](blank:#https://www.figma.com/file/Mkx9auwfUkc71swFxI1GHh/Figma-Basics?node-id=0%3A286)
+[Ver formato de diseño UI/UX en Figma](https://www.figma.com/file/Mkx9auwfUkc71swFxI1GHh/Figma-Basics?node-id=0%3A286)
